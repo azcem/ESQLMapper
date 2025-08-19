@@ -155,7 +155,6 @@ tw.save()
 📁 TableWriter/
 ├── 🐍 TableWriter.py
 🐍 main.py
-📄 mapping.docx
 📄 requirements.txt
 📄 template.docx
 ```
