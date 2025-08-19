@@ -202,7 +202,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [IBM Integration Bus Documentation](https://www.ibm.com/docs/en/integration-bus)
 - [ANTLR Project](https://www.antlr.org/)
-- [DocX Template Engine](https://github.com/open-xml-templating/docxtemplater)
 
 ## Acknowledgments
 
