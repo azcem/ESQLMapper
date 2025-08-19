@@ -36,10 +36,13 @@ python main.py --filename input.esql -o mapping.docx --source Environment/Variab
 
 ```bash
 git clone https://github.com/azcem/ESQLMapper.git
-cd ESQLMapper
 
 # Install ANTLR
 npm install -g antlr4
+
+# Compile Java classes
+cd ESQLMapper/Mapper
+javac *.java
 ```
 
 ## Usage
